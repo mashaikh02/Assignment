@@ -1,2 +1,2 @@
 # Assignment
-Trendnxt
+Trendnxt assignment 
